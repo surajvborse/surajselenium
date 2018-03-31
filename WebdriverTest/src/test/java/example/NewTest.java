@@ -17,6 +17,7 @@ public class NewTest {
 		String title = driver.getTitle();
 		Assert.assertTrue(title.contains("Demo Guru99 Page"));
 		System.out.println("Testing is complete");
+		System.out.println("Regression testing is complete");
 
 
 	}
